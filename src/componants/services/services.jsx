@@ -1,7 +1,7 @@
 import React from 'react';
 import './services.css'
 import {BiCheck} from 'react-icons/bi'
-import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 const Services = () => {
     return ( 
         <>

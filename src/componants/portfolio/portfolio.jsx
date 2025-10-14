@@ -1,5 +1,5 @@
 import React from "react";
-import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 import "./portfolio.css";
 import IMG1 from "../../assets/hero.png";
 import IMG2 from "../../assets/img crud.png";

@@ -1,7 +1,7 @@
 import React from "react";
 import "./experience.css";
 import { BsPatchCheckFill } from "react-icons/bs";
-import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 const Experience = () => {
   return (
     <>

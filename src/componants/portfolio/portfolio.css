@@ -2,7 +2,6 @@
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
     gap: 2.5rem;
-    margin-left: 130px;
 }
 .portfolio-item{
     background: var(--color-bg-variant);

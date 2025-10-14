@@ -1,5 +1,5 @@
 import React from 'react'
-import Fade from 'react-reveal/Fade';
+import { Fade } from 'react-awesome-reveal';
 import './testimonials.css'
 import IMAG1 from '../../assets/avatar1.jpg'
 import IMAG2 from '../../assets/avatar2.jpg'
