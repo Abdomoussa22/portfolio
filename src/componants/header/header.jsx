@@ -16,7 +16,7 @@ const Header = () => {
                 <Cta/>
                   <HeaderSocials/>
                 <div className='me'>
-                  <Fade left>
+                  <Fade direction='left'>
                     <img src={ME} alt="ME" />
                     </Fade>
                 </div>

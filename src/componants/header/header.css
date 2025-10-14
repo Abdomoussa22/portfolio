@@ -1,6 +1,6 @@
 header{
-    height: 100vh;
-    padding-top: 5rem;
+    height: 120vh;
+    padding-top: 3rem;
     overflow: hidden;
 }
 .header-container{
@@ -35,7 +35,7 @@ header{
 .me{
     background:linear-gradient(var(--color-primary), transparent);
     width: 22rem;
-    height: 50rem;
+    height: 100%;
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
@@ -60,14 +60,12 @@ header{
 }
 /*#############MEDIA QUIRES (MEDIUM DEVICES)###############*/
 @media screen and (max-width: 1024px){
-    header{
-        height: 68vh;
-    }
+
 }
 /*#############MEDIA QUIRES (SMALL DEVICES)###############*/
 @media screen and (max-width: 600px){
     header{
-        height: 100vh;
+        height: 110vh;
     }
     .header-socials,.scroll-down{
         display: none;
