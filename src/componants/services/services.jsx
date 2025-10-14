@@ -17,23 +17,23 @@ const Services = () => {
                     <ul className="services-list">
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Pixel-perfect responsive UI.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Design systems & tokens.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Accessible components (WCAG AA).</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Rapid prototyping & usability tests.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>User flows & wireframes.</p>
                         </li>
                     </ul>
                 </article>
@@ -45,27 +45,27 @@ const Services = () => {
                     <ul className="services-list">
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>React + TypeScript + Next.js.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>State management (Redux/Zustand).</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>API integration (REST/GraphQL).</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Performance tuning (Core Web Vitals).</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Testing: Jest / RTL / Cypress.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>CI/CD, code reviews, best practices.</p>
                         </li>
                     </ul>
                 </article>
@@ -77,23 +77,23 @@ const Services = () => {
                     <ul className="services-list">
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Developer docs & style guides.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Storybook component demos.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Technical blogs & how-tos.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Live demos and sandboxes.</p>
                         </li>
                         <li>
                             <BiCheck className='services-list-icon'/>
-                            <p>Lorem ipsum dolor sit consectetur adipisicing.</p>
+                            <p>Team mentoring & knowledge sharing.</p>
                         </li>
                     </ul>
                 </article>

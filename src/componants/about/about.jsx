@@ -23,12 +23,12 @@ const About = () => {
                 <article className="about-card">
                     <FaAward className="about-icon"/>
                     <h5>Experience</h5>
-                    <small>A Fresh Graduate</small>
+                    <small>Senior Developer Of 3 Years</small>
                 </article>
                 <article className="about-card">
                     <FiUsers className="about-icon"/>
                     <h5>Clients </h5>
-                    <small>NO Clients Yet</small>
+                    <small>More than 100 Clients</small>
                 </article>
                 <article className="about-card">
                     <VscFolderLibrary className="about-icon"/>
@@ -36,7 +36,7 @@ const About = () => {
                     <small>30+ Completed</small>
                 </article>
             </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium voluptates, mollitia dolores dolore asperiores laboriosam quasi sit dignissimos corrupti quibusdam consequatur reiciendis! Eos ratione fuga non numquam dignissimos dolores quam!</p>
+            <p>Senior Front-End Engineer specializing in building fast, accessible, and scalable web apps with React, TypeScript, and Next.js. I design reusable component systems, translate Figma into pixel-perfect responsive UI, and optimize Core Web Vitals to drive measurable business impact. Comfortable across state management, API integration (REST/GraphQL), and animation with Framer Motion—backed by solid testing (Jest/RTL) and CI/CD practices. My focus: clean architecture, great UX, and shipping reliably at speed.</p>
 
             <a href="#contact" className="btn btn-primary"> Let's Talk</a>
           </div>
